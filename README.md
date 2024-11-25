@@ -14,3 +14,5 @@ Introduces the fundamentals of object-oriented programming, including classes, s
 
 LAB 1: oop-intermediate-tasks branch.
 Building confidence with designing classes, creating diverse objects, exploring modules and packages, and continuing mastering Git essentials.
+
+LAB 2: oop-advanced-task
