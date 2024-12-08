@@ -1,7 +1,0 @@
-[{"Is Humanoid":true,"ID":3,"Planet":"Betelgeuse","Age":59,"Traits":["EXTRA_ARMS","EXTRA_HEAD"]},
-{"Is Humanoid":false,"ID":4,"Planet":"Vogsphere","Age":128,"Traits":["GREEN","BULKY"]},
-{"Is Humanoid":null,"ID":10,"Planet":"Betelgeuse","Age":45,"Traits":["EXTRA_ARMS","EXTRA_HEAD"]},
-{"Is Humanoid":false,"ID":11,"Planet":"null","Age":128,"Traits":["GREEN"]},
-{"Is Humanoid":null,"ID":17,"Planet":"null","Age":26,"Traits":["EXTRA_ARMS"]},
-{"Is Humanoid":false,"ID":18,"Planet":"null","Age":"null","Traits":["BULKY"]},
-{"Is Humanoid":null,"ID":21,"Planet":"null","Age":82,"Traits":["EXTRA_HEAD"]}]
