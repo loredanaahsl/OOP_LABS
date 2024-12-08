@@ -8,5 +8,5 @@
 
 This is Repository which contains all the labs for OOP course. 
 
-Done by *Timur Cravțov*, student of the group FAF-231.
+Done by *Condrea Loredana, student of the group FAF-231.
 
